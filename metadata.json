@@ -1,0 +1,6 @@
+{
+  "name": "TypeWise",
+  "description": "Learn while you type with educational Wikipedia passages, recall quizzes, typing speed analytics, spaced revision, and gamified leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
